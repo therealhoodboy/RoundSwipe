@@ -22,6 +22,5 @@ Makes swipe action buttons circular.
 | Before | After |
 | --- | --- |
 | ![Before](assets/IMG_0281.jpg) | ![After](assets/IMG_0284.jpg) |
-| ![Before](assets/IMG_0282.jpg) | ![After](assets/IMG_0284.jpg) |
-| ![Before](assets/IMG_0285.jpg) | ![After](assets/IMG_0284.jpg) |
+| ![Before](assets/IMG_0282.jpg) | ![After](assets/IMG_0285.jpg) |
 | ![Before](assets/IMG_0283.jpg) | ![After](assets/IMG_0286.jpg) |
