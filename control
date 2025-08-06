@@ -1,0 +1,11 @@
+Package: com.coreux.roundswipe
+Name: RoundSwipe
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Modern swipe view 
+Maintainer: therealhoodboy
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Provides: com.coreux.roundswipe
+
