@@ -2,7 +2,7 @@
 DEBUG = 0
 FINALPACKAGE = 1
 ARCHS = arm64 arm64e
-TARGET := iphone:clang:latest:14.0
+TARGET := iphone:clang:latest:12.0
 INSTALL_TARGET_PROCESSES = SpringBoard 
 
 # Device targeting based on build mode
